@@ -29,6 +29,10 @@ img {
     object-fit: cover;
 }
 
+.text-section {
+    padding: 35px;
+}
+
 h1 {
    font-family: 'Fraunces', serif;
    font-size: 2rem;
@@ -48,11 +52,6 @@ p {
     display: flex;
     align-items: center;
     line-height: 23px;
-}
-
-.text-section {
-    /* padding: 40px 30px; */
-    padding: 35px;
 }
 
 .cost {
